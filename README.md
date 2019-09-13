@@ -1,4 +1,4 @@
-# AzureHDInsight
-Azure HDInsight quickstart templates
+# AzureAnalyticsLab
+
 
 
